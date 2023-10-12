@@ -3,7 +3,7 @@
 
 
 <!-- GitHub Profile Views -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p>
 
 <!-- Some Important Notes about yourself -->
 - 🔭 I’m studing BSCS at UET, Lahore<br>
@@ -64,12 +64,10 @@
 ### Stats
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact" alt="saqlainrai" /> 
-
-<br>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact" alt="saqlainrai" /> 
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&show_icons=true&locale=en" alt="saqlainrai" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainrai&" alt="saqlainrai" />
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainrai&" alt="saqlainrai" />
 </div>
 
