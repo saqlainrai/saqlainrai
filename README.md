@@ -15,7 +15,7 @@
 <p align="center">
 	<img src="https://profile-counter.glitch.me/saqlainrai/count.svg" />
 </p>
-
+<hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
 
 <!-- Some Important Notes about yourself -->
@@ -65,7 +65,6 @@
 
 
 <div>
-
 <p align="Center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -98,8 +97,6 @@
 </div>
 
 ## Trophies
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainrai" alt="saqlainrai" /></a> </p>
 
 
@@ -107,16 +104,16 @@
 <img style="width: 400px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
 
 ## GitHub Stats
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
 
 ## GitHub Streak
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
 
-## GitHub Graph
-[![Saqlain Mansab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact	)](https://github.com/saqlainrai/github-readme-activity-graph)
-
 ## GitHub over time
-<img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" />
+<img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" alt="saqlainrai"/>
  
 ## Languages over time
-<img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" />
+<img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" alt="saqlainrai"/>
+
+## GitHub Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
