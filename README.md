@@ -101,19 +101,29 @@
 
 
 ## GitHub Languages
-<img style="width: 400px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
+</div>
 
 ## GitHub Stats
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
+</div>
 
 ## GitHub Streak
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
+<div align="center">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
+</div>
 
 ## GitHub over time
-<img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" alt="saqlainrai"/>
- 
+<div align="center">
+  <img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" alt="saqlainrai"/>
+</div>
+
 ## Languages over time
-<img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" alt="saqlainrai"/>
+<div align="center">
+  <img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" alt="saqlainrai"/>
+</div>
 
 ## GitHub Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
