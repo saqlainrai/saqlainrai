@@ -127,3 +127,6 @@
 
 ## GitHub Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
+
+## 🏅 Holopin badges
+[![An image of @saqlainrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saqlainrai)](https://holopin.io/@saqlainrai)
