@@ -7,7 +7,7 @@
 
 <br/>
 
-<h1 align="center">Hi there👋, myself Saqlain Mansab</h1>
+<h1 align="center">Hi there👋 myself Saqlain Mansab</h1>
 <h3 align="center">A passionate CS JR. Year from Pakistan</h3>
 
 <!-- GitHub Profile Views -->
@@ -22,16 +22,16 @@
 - 🔭 I’m studing BSCS at UET, Lahore<br>
 - 🌱 Currently learning **AI and Data Science**
 - 👯 Looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Current Teaching Assistant.
+- 📢 Love to teach and inspire students.
 - 🥅 2024-25 Goals: Spread love and knowledge
 - 💎 If you are interested in technology let's get connected  
-- 📫 Reach Out me here  **itzrsmkhere@gmail.com**
+- 📫 Reach Out me here  **saqlainmansab.dev@gmail.com**
 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left"> <a href="https://linktr.ee/saqlainrai" target="blank"><img src="https://img.shields.io/twitter/follow/saqlainmansab?logo=twitter&style=for-the-badge" alt="saqlainmansab" /></a> </p>
 
-<a href="https://saqlainmansab.com">
+<a href="https://saqlainmansab.live">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>  
 <a href="https://www.linkedin.com/in/saqlain-mansab-rai786/">
