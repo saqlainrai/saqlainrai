@@ -11,10 +11,10 @@
 <h3 align="center">A passionate CS JR. Year from Pakistan</h3>
 
 <!-- GitHub Profile Views -->
-<h2>💥Profile Views<br> </h2>
+<!-- <h2>💥Profile Views<br> </h2>
 <p align="center">
 	<img src="https://profile-counter.glitch.me/saqlainrai/count.svg" />
-</p>
+</p> -->
 <hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
 
@@ -115,7 +115,7 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
 </div>
 
-## GitHub over time
+<!-- ## GitHub over time
 <div align="center">
   <img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" alt="saqlainrai"/>
 </div>
@@ -123,7 +123,7 @@
 ## Languages over time
 <div align="center">
   <img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" alt="saqlainrai"/>
-</div>
+</div> -->
 
 ## GitHub Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
