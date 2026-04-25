@@ -8,13 +8,13 @@
 <br/>
 
 <h1 align="center">Hi there👋 myself Saqlain Mansab</h1>
-<h3 align="center">A passionate CS JR. Year from Pakistan</h3>
+<h3 align="center">A passionate CS Final Year from Pakistan</h3>
 
 <!-- GitHub Profile Views -->
-<!-- <h2>💥Profile Views<br> </h2>
+<h2>💥Profile Views<br> </h2>
 <p align="center">
-	<img src="https://profile-counter.glitch.me/saqlainrai/count.svg" />
-</p> -->
+	<img src="https://profile-counter.deno.dev/saqlainrai/count.svg" />
+</p>
 <hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
 
@@ -23,12 +23,14 @@
 - 🌱 Currently learning **AI and Data Science**
 - 👯 Looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2024-25 Goals: Spread love and knowledge
+- 🥅 2025-26 Goals: Spread love and knowledge
 - 💎 If you are interested in technology let's get connected  
-- 📫 Reach Out me here  **saqlainmansab.dev@gmail.com**
+- 📫 Reach Out me here  **saqlainmansab.dev@gmail.com** <br>
+
+```Keep smiling and Stay Blessed✨💫```
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me:</h2>
 <p align="left"> <a href="https://linktr.ee/saqlainrai" target="blank"><img src="https://img.shields.io/twitter/follow/saqlainmansab?logo=twitter&style=for-the-badge" alt="saqlainmansab" /></a> </p>
 
 <a href="https://saqlainmansab.live">
@@ -54,63 +56,79 @@
 </a>
 <a href="https://www.youtube.com/@saqlainmansabrai">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852551-b848aea3-9d04-435a-9e1d-260f1c5d8942.png" />
+</a>
 
-
-<h2 align="">Languages and Tools:</h2>
+<!-- <h2 align="">Languages and Tools:</h2> -->
 <!-- <img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893707-4c275cb6-c536-4173-bfc4-3d6cc1bdb6c1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
  -->
 
-
-<div>
-<p align="Center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</a> 
+<h2 align="left">⚡ Tech Stack:</h2>
+<div align="left">
+<!-- Languages -->
+<h3>Languages</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin:12px;" />
 </p>
+
+<!-- Frameworks -->
+<h3>Frameworks</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" style="margin:12px;" />
+</p>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" style="margin:12px;" />
+</p>
+
+<!-- Tools -->
+<h3>Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.simpleicons.org/github/white" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" style="margin:12px;" />
+  <img src="https://cdn.simpleicons.org/markdown/white" height="50" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin:12px;" />
+</p>
+
 </div>
 
-## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainrai" alt="saqlainrai" /></a> </p>
+## 🏆 Trophies
+<p align="right" style="margin-left: 20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=saqlainrai&theme=monokai&title=-Followers,-Stars,-Reviews" alt="saqlainrai" /></a> </p>
 
 
-## GitHub Languages
+## 💡 GitHub Languages
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
 </div>
 
-## GitHub Stats
+## 🎉 GitHub Stats
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
 </div>
 
-## GitHub Streak
+## 🔥 GitHub Streak
 <div align="center">
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
 </div>
@@ -125,7 +143,7 @@
   <img width="400px" src="https://stats.quine.sh/saqlainrai/languages-over-time?theme=dark" alt="saqlainrai"/>
 </div> -->
 
-## GitHub Graph
+## 📈 GitHub Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
 
 ## 🏅 Holopin badges
