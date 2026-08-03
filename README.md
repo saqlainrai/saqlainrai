@@ -13,7 +13,7 @@
 <!-- GitHub Profile Views -->
 <h2>💥Profile Views<br> </h2>
 <p align="center">
-	<img src="https://profile-counter.deno.dev/saqlainrai/count.svg" />
+	<img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
@@ -118,7 +118,7 @@
 <p align="right" style="margin-left: 20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=saqlainrai&theme=monokai&title=-Followers,-Stars,-Reviews" alt="saqlainrai" /></a> </p>
 
 
-## 💡 GitHub Languages
+<!-- ## 💡 GitHub Languages
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
 </div>
@@ -127,11 +127,12 @@
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
 </div>
-
+-->
 ## 🔥 GitHub Streak
 <div align="center">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saqlainrai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" alt="saqlainrai"/>
+  <img src="https://streak-stats.vercel.app?user=saqlainrai&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak" />
 </div>
+
 
 <!-- ## GitHub over time
 <div align="center">
