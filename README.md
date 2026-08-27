@@ -13,7 +13,8 @@
 <!-- GitHub Profile Views -->
 <h2>💥Profile Views<br> </h2>
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+	<!-- <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
+	<img width="200" src="https://gitcanvas-live-at.vercel.app/api/views?username=saqlainrai&theme=monokai&hide_border=true&label=Visitors+Count" alt="Profile views" />
 </p>
 <hr>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainrai&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainrai" /> </p> -->
@@ -115,25 +116,28 @@
 </div>
 
 ## 🏆 Trophies
-<p align="right" style="margin-left: 20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=saqlainrai&theme=monokai&title=-Followers,-Stars,-Reviews" alt="saqlainrai" /></a> </p>
-
-
-<!-- ## 💡 GitHub Languages
+<!-- <p align="right" style="margin-left: 20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=saqlainrai&theme=monokai&title=-Followers,-Stars,-Reviews" alt="saqlainrai" /></a> </p> -->
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlainrai&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai" /> 
+	<img src="https://gitcanvas-live-at.vercel.app/api/stats/trophies?username=saqlainrai&theme=monokai&hide_border=true" />
+</div>
+
+
+## 💡 GitHub Languages
+<div align="center">
+  <img width="800px" src="https://gitcanvas-live-at.vercel.app/api/stats/languages?username=saqlainrai&theme=cyberpunk&layout=bump" alt="saqlainrai" /> 
 </div>
 
 ## 🎉 GitHub Stats
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=saqlainrai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="saqlainrai"/>
+  <img width="600px" src="https://gitcanvas-live-at.vercel.app/api/stats/github-card?username=saqlainrai&theme=monokai" alt="saqlainrai"/>
 </div>
--->
+
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.vercel.app?user=saqlainrai&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak" />
+  <img src="https://gitcanvas-live-at.vercel.app/api/stats/streak-card?username=saqlainrai&theme=cyberpunk" width="600" alt="GitHub Streak" />
 </div>
 
-
+<!-- These headings are already displayed above (duplicate entries) -->
 <!-- ## GitHub over time
 <div align="center">
   <img width="400px" src="https://stats.quine.sh/saqlainrai/github?theme=dark" alt="saqlainrai"/>
@@ -145,7 +149,9 @@
 </div> -->
 
 ## 📈 GitHub Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
+<div align="center">
+	<img width="800" src="https://gitcanvas-live-at.vercel.app/api/stats/graph?username=saqlainrai&theme=github-compact" alt="saqlainrai"/>
+</div>
 
 ## 🏅 Holopin badges
 [![An image of @saqlainrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saqlainrai)](https://holopin.io/@saqlainrai)
